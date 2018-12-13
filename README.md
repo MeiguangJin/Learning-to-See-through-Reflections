@@ -3,7 +3,7 @@ This repository is a PyTorch implementation of the paper "Learning to See throug
 
 If you find our work useful in your research or publication, please cite our work:
 
-@InProceedings{Jin_2018_CVPR,  
+@InProceedings{Jin_2018_ICCP,  
 author = {Jin, Meiguang and Sabine Süsstrunk and Favaro, Paolo},  
 title = {Learning to See through Reflections},  
 booktitle = {IEEE International Conference on Computational Photography (ICCP)},  
