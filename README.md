@@ -20,4 +20,4 @@ python test.py --cuda --model model.pth --input input.jpg
 To be updated  
 
 ## **Contact**
-If you have any suggestions and questions, please send an email to jin@inf.unibe.ch
+If you have any suggestions and questions, please send an email to jinmeiguang@gmail.com
